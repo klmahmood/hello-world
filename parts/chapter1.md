@@ -21,7 +21,7 @@ Colons can be used to align columns.
 |  11172 - Relational Operator  |   |   |
 | 11498 - Division of Nlogonia  |   |   |
 |  11727 - Cost Cutting  |   |   |
-| **Easy**  |   |   |
+| **Easy**   |
 |  10114 - Loansome Car Buyer  |   |   |
 |  11559 - Event Plannign  |   |   |
 |  11799 - Horror Dash  |   |   |
