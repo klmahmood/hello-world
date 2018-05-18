@@ -29,6 +29,11 @@ int main() {
 }
 ```
 
+Colons can be used to align columns.
+
+| Problem        |   Note         | Src  | Language |
+| ------------- |:-------------:| -----:|-----:|
+| 12060 - all integer average| note | src  | Java |
 
 
 
@@ -37,6 +42,8 @@ int main() {
 [comment]: # (This actually is the most platform independent comment)
 
 <!--
+ {% include_relative src/chapter1/chapter 2/12060_all_integer_average.cpp %
+ }[I'm an inline-style link](https://www.google.com)
 Notes for Me:
 Formatted.
 Cross-platform
