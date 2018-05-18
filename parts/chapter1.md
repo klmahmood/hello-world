@@ -15,11 +15,10 @@ Colons can be used to align columns.
 
 
 
-|  ##Getting Started: The Easy Problems |   |   |
+|  Getting Started: The Easy Problems |   |   |
 |:-:|:-:|:-:|
 ------------ | ------------- | -----
 |**Super Easy**   |   |   |
-| |Code |src
 |  11172 - Relational Operator  |   |   |
 | 11498 - Division of Nlogonia  |   |   |
 |  11727 - Cost Cutting  |   |   |
