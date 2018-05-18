@@ -16,8 +16,7 @@ Colons can be used to align columns.
 
 
 |  Getting Started: The Easy Problems |   |   |
-|:-:|:-:|:-:|
------------- | ------------- | -----
+|-|-|-|
 |**Super Easy**   |   |   |
 |  11172 - Relational Operator  |   |   |
 | 11498 - Division of Nlogonia  |   |   |
