@@ -25,7 +25,7 @@ Colons can be used to align columns.
 |  10141 - Request for Proposal
 |  11507 - Bender B. Rodríguez Problem
 
-
+Another Table
 
 ||            || Column Header One || Column Header Two || Column Header Three || if this line is followed by a line of ||--|| then it is a header, also, Row Headers are indicated by an optional *empty* A1 cell
 ||-----------:||:------------------||:-----------------:||--------------------:|| : to indicate default column alignment as per ME
