@@ -42,7 +42,7 @@ Colons can be used to align columns.
 
 | Problem        |   Note         | Src  | Language |
 | ------------- |:-------------:| -----:|-----:|
-| 12060 - all integer average| note  | src [I'm an inline-style link](https://github.com/klmahmood/hello-world/blob/master/src/chapter1/chapter2/12060_all_integer_average.cpp)  | Java |
+| 12060 - all integer average| [note](src/chapter1/chapter2/12060.md)   |[Code](https://github.com/klmahmood/hello-world/blob/master/src/chapter1/chapter2/12060_all_integer_average.cpp)  | Java |
 
 
 
@@ -51,6 +51,7 @@ Colons can be used to align columns.
 [comment]: # (This actually is the most platform independent comment)
 
 <!--
+
  include_relative src/chapter1/chapter2/12060_all_integer_average.cpp
 
 
