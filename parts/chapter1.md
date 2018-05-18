@@ -27,9 +27,9 @@ Colons can be used to align columns.
 
 Another Table
 
-|  get start |   |   |
+|  ###get start |   |   |
 |:-:|:-:|:-:|
-|easy prpblem    |
+|**easy prpblem**    |
 |   p1|   |   |
 |   p2|   |   |
 |   |   |   |
