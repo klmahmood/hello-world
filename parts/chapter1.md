@@ -29,7 +29,7 @@ Another Table
 
 |  get start |   |   |
 |:-:|:-:|:-:|
-|easy prpblem   |   |   |
+|easy prpblem    |
 |   p1|   |   |
 |   p2|   |   |
 |   |   |   |
