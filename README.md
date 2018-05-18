@@ -30,9 +30,20 @@ int main() {
 ```
 
 
+
+(empty line)
+[comment]: # (This actually is the most platform independent comment)
+
 <!--
 Notes for Me:
 Formatted.
 Cross-platform
 Tested.
 -->
+
+
+(empty line)
+[comment]: # (Notes for Me:
+Formatted.
+Cross-platform
+Tested.)
