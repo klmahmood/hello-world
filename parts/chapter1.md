@@ -27,6 +27,15 @@ Colons can be used to align columns.
 
 Another Table
 
+|  get start |   |   |
+|:-:|:-:|:-:|
+|easy prpblem   |   |   |
+|   p1|   |   |
+|   p2|   |   |
+|   |   |   |
+
+Other one
+
 ||            || Column Header One || Column Header Two || Column Header Three || if this line is followed by a line of ||--|| then it is a header, also, Row Headers are indicated by an optional *empty* A1 cell
 ||-----------:||:------------------||:-----------------:||--------------------:|| : to indicate default column alignment as per ME
 ||Row Hdr 1   ||Left Aligned||Centre Aligned||Right Aligned|| whitespace should not matter
