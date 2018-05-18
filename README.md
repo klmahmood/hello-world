@@ -45,7 +45,7 @@ Colons can be used to align columns.
 | 12060 - all integer average| [note](src/chapter1/chapter2/12060.md)   |[C++](src/chapter1/chapter2/12060_all_integer_average.cpp)  | Java |
 
 
-
+[Chapter1](parts/chapter1.md) 
 
 (empty line)
 
