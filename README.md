@@ -29,11 +29,6 @@ int main() {
 }
 ```
 
-Colons can be used to align columns.
-
-| Problem        |   Note         | Src  | Language |
-| ------------- |:-------------:| -----:|-----:|
-| 12060 - all integer average      | {% include_relative src/chapter1/chapter 2/12060_all_integer_average.cpp %} | [I'm an inline-style link](https://www.google.com) | Java |
 
 
 
