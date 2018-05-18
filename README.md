@@ -40,10 +40,10 @@ int main() {
 
 Colons can be used to align columns.
 
-| Problem        |   Note         | Src  | Language |
+| Problem        |   Note         | Code  | Language |
 | ------------- |:-------------:| -----:|-----:|
-| 12060 - all integer average| [note](src/chapter1/chapter2/12060.md)   |[Code](src/chapter1/chapter2/12060_all_integer_average.cpp)  | Java |
-| 12060 - all integer average| [note relative link](src/chapter1/chapter2/12060.md)   |[Code relative link](src/chapter1/chapter2/12060_all_integer_average.cpp)  | Java |
+| 12060 - all integer average| [note](src/chapter1/chapter2/12060.md)   |[C++](src/chapter1/chapter2/12060_all_integer_average.cpp)  | Java |
+
 
 
 
