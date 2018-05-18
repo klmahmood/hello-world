@@ -29,9 +29,16 @@ int main() {
 }
 ```
 
+Colons can be used to align columns.
+
+| Problem        |   Note         | Src  | Language |
+| ------------- |:-------------:| -----:|-----:|
+| 12060 - all integer average      | {% link src/chapter1/chapter 2/banjo.md %} | [I'm an inline-style link](https://www.google.com) | Java |
+
 
 
 (empty line)
+
 [comment]: # (This actually is the most platform independent comment)
 
 <!--
