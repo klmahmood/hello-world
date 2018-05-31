@@ -1,38 +1,25 @@
 # Google C++ Style Guide Cheatsheet
 
 ##### Table of Contents
+| Section | Subsection|
+| --- | --- | --- |
+| [Header Files](#Header-Files) |  [__Self-contained Headers__](#Self-contained-Headers)  [The #define Guard](#The-#define-Guard)
+[Forward Declarations](#Forward-Declarations)
+[Inline Functions](#Inline-Functions)
+[Names and Order of Includes](Names-and-Order-of-Includes)|
 
-
-Every `.cc` file should have an associated `.h` file
-
-
-<table>
-  <tr>
-    <th>Subsection</th>
-    <th>Rule</th>
-    <th>Example</th>
-    <th> Rule # </th>
-  </tr>
-  <tr>
-    <td rowspan="2">Self-contained Headers</td>
-    <td>Every `.cc` file should have an associated `.h` file</td>
-    <td> </td>
-    <td>1.1.1</td>
-  </tr>
-  <tr>
-
-    <td>February</td>
-    <td>$80</td>
-  </tr>
-</table>
-
-<table>
-<tr>
-<td markdown="1">This is *true* markdown text.</td>
-</tr>
-</table>
-
-|a    |   b |
+### Header Files
+| Rule | Rule #|
 | --- | --- |
-| 1   |   2 |
-| ^   |   2 |
+| Every `.cc` file should have an associated `.h` file. But there can be exception, e.g. unittests & small `.cc` files with just a `main()`. |  *1.0.1* |
+
+__*underline italics*__
+
+
+__underline__
+
+#### Self-contained Headers
+#### The #define Guard
+#### Forward Declarations
+#### Inline Functions
+#### Names and Order of Includes
